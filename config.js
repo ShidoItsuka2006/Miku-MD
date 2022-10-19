@@ -20,7 +20,7 @@ global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['-'] 
+global.prefa = ['_'] 
 
 
 global.location = "Kerala, India"
@@ -65,7 +65,7 @@ global.mess = {
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: 'Chotto Matte...',
+    waiting: 'Chotto Matte.../Please wait.../Onnu wait chiyyo...',
     nolink: 'Please provide me *link*, Baka!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
