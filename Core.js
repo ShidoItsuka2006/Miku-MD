@@ -4791,7 +4791,7 @@ qr, say, translate, fliptext, toletter
     
 
  let buttonshelpm = [
-    {buttonId: `_owner`, buttonText: {displayText: 'Bot Owner'}, type: 1}
+    {buttonId: `-owner`, buttonText: {displayText: 'Bot Owner'}, type: 1}
     ]
                 let buttonMessage = {
                     video:fs.readFileSync('./system/miku2.mp4'),gifPlayback:true,
@@ -4817,7 +4817,7 @@ case '':
  const needhelpmenu = `Do you need help ${pushname} Senpai? Type *${prefix}help* to get my full command list.`
      
          let butRun = [
-                {buttonId: `_help`, buttonText: {displayText: 'Help'}, type: 1}
+                {buttonId: `-help`, buttonText: {displayText: 'Help'}, type: 1}
                 ]
                 let buttonMessage = {
                     video:fs.readFileSync('./system/miku.mp4'),gifPlayback:true,
