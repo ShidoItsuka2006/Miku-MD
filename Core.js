@@ -3572,7 +3572,7 @@ let ments = [me, jodoh]
 let buttons = [
 { buttonId: '❤️', buttonText: { displayText: 'Be my Soulmate ❤️' }, type: 1 }
 ]
-    if ('Be my Soulmate ❤️') return reply(`${mess.you and i are soulmates}`)
+
 await Miku.sendButtonText(m.chat, buttons, jawab, Miku.user.name, m, {mentions: ments})
 }
 break
