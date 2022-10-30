@@ -14,7 +14,7 @@ global.BotName = "Miku"
 global.packname = "Miku bot"
 global.author = "By: Shido"
 global.OwnerName = "Shido"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
+global.BotSourceCode = "https://github.com/ShidoItsuka2006/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
 
