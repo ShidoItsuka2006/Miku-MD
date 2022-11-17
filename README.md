@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/FantoX001">
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
+    <img src="https://www.bing.com/images/search?view=detailV2&ccid=Ip8ZDeSl&id=BDD13A7CCA049D6B2683CEF332814A1A9DCD15CA&thid=OIP.Ip8ZDeSlK1LJm7zzJ0k2GAHaEK&mediaurl=https%3a%2f%2f66.media.tumblr.com%2fd7900f82ca1eda41d43363fa82b80e8a%2f5bb64e991e5c7017-23%2fs640x960%2f3ea8c1408a6a61b312a2d00b3719cb6d4b9b5dbe.gif&exph=360&expw=640&q=Miku+Nakano+GIF&simid=607994187964490503&FORM=IRPRST&ck=E37750EC20EEA5B3BDBA5E4C5C800BD1&selectedIndex=21&ajaxhist=0&ajaxserp=0" width="610">
      
 </p>
 <h1 align="center"> Miku Nakano (Beta)
