@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/ShidoItsuka2006">
-    <img src="https://64.media.tumblr.com/4f409613dadd127f8cb3a77808d733a5/970e9d509bf5dda3-c2/s400x600/9e8d20566fb2d4f4dde613d4608edacb126e3541.gifv" width="600">
+    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="600">
      
 </p>
 <h1 align="center"> Miku Nakano (Beta)
